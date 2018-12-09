@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/protool/static/css/main.9acd51b9.chunk.css"
   },
   {
-    "revision": "c137ce3e47eabbd5c628b5baf9e28323",
+    "revision": "e9b19df536ffc2fdc84b690dd695ec09",
     "url": "/protool/index.html"
   }
 ];
